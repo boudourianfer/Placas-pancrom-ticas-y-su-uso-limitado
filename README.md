@@ -1,1 +1,4 @@
-# Placas-pancrom-ticas-y-su-uso-limitado
+# Placas-pancromáticas-y-su-uso-limitado
+Las placas pancromáticas, aunque sensibles a todo el espectro de luz visible, presentan dificultades operativas para la astrofotografía. Requieren ser reveladas en completa oscuridad, lo que limita su uso práctico. Por ello, suelen reemplazarse por placas ortocromáticas cuando se emplea un filtro amarillo.
+Solo en casos específicos se opta por las pancromáticas, como en captaciones con filtro rojo, donde su sensibilidad extra justifica su complejidad técnica. En estos casos, deben usarse procedimientos más rigurosos de manipulación y revelado, con condiciones controladas.
+En comparación, las ortocromáticas ofrecen una solución más sencilla y segura. Son compatibles con procesos artesanales de filtrado y revelado en luz roja. Su versatilidad las convierte en la opción ideal para quienes buscan equilibrio entre fidelidad óptica y facilidad de uso.
